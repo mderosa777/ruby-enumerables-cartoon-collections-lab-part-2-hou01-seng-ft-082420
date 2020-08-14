@@ -25,9 +25,9 @@ end
 
 def find_valid_calls(planeteer_calls)
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
-  planeteer_calls.find do | valid_calls |
-    valid_calls
-    planeteer_calls
+  planeteer_calls.find do | x|
+   x == valid_calls<=>planeteer_calls
+     
   end 
     
     
