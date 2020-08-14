@@ -28,7 +28,7 @@ def find_valid_calls(planeteer_calls)
   planeteer_calls.find do | x|
   if valid_calls<=>planeteer_calls
  puts x 
-     
+    end  
   end 
     
     
