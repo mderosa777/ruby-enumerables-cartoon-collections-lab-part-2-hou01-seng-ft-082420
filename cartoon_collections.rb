@@ -28,7 +28,7 @@ def find_valid_calls(planeteer_calls)
   planeteer_calls.find {|i|i=
    valid_calls && planeteer_calls}
  
-   end 
+   
   
   
     
